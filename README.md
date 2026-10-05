@@ -22,8 +22,8 @@ Líder técnico y desarrollador Full Stack en **Medellín, Colombia**, con más 
 
 - 🧑‍🏫 Actualmente: **Team Leader Developer en [Riwi](https://riwi.io)**
 - 🏗️ Antes: Líder Técnico en **Ofima** (migración Angular → Flutter, CI/CD en Azure DevOps) y Frontend Advanced en **Pirani** (SaaS de gestión de riesgos, design system propio)
-- 🤖 Uso IA (Claude Code, Copilot) a diario para acelerar documentación, código y análisis de errores
-- 🌎 Español nativo · Inglés B2
+- 🤖 Uso IA (Claude Code, Codex, Copilot, Kimi) a diario para acelerar documentación, código y análisis de errores
+- 🌎 Español nativo · Inglés B1
 
 ## 🛠️ Stack
 
@@ -34,7 +34,7 @@ Líder técnico y desarrollador Full Stack en **Medellín, Colombia**, con más 
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,spring,laravel,php,python,flask" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,spring,laravel,php,python" />
 </p>
 
 **Bases de datos**
