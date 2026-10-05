@@ -21,7 +21,7 @@
 Líder técnico y desarrollador Full Stack en **Medellín, Colombia**, con más de 6 años construyendo software de alto impacto. He liderado equipos, definido estándares de calidad y tomado decisiones de arquitectura en plataformas SaaS, apps móviles y sistemas empresariales.
 
 - 🧑‍🏫 Actualmente: **Team Leader Developer en [Riwi](https://riwi.io)**
-- 🏗️ Antes: Líder Técnico en **Ofima** (migración Angular → Flutter, CI/CD en Azure DevOps) y Frontend Advanced en **Pirani** (SaaS de gestión de riesgos, design system propio)
+- 🏗️ Antes: Líder Técnico en **Ofima** (Desarrollo en Angular, Flutter, CI/CD en Azure DevOps, Mongo, Postgres, .NET) y Frontend Advanced en **Pirani** (SaaS de gestión de riesgos, design system propio)
 - 🤖 Uso IA (Claude Code, Codex, Copilot, Kimi) a diario para acelerar documentación, código y análisis de errores
 - 🌎 Español nativo · Inglés B1
 
